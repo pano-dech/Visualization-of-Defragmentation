@@ -1,2 +1,2 @@
-# Portfolio-for-CBMES
-A collection of projects for my application to the OJT position offered by CBMES.
+# Visualization of Defragmentation
+Without defragmentation, memory in our devices will be scattered and reduce the efficacy of remaining memory. Defragmentation is a process that groups occupied chunks of memory together, and frees up space for future use. This is quite a complex procedure and so this Jupyter Notebook was made to demonstrate every step of the process with the help of MATLIB's plotting library.
